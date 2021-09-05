@@ -1,0 +1,11 @@
+#+TITLE: Adv Cmds
+This are Commands for Advanced users
+1. youtube-dl https://youtube.com/watch?v=sPecIfIcCoDE (You can use -F to specify certain format && -f for best quality)
+2. ffmpeg -i The\ Chainsmokers\ -\ Closer\ \(Lyrics\)\ ft.\ Halsey.mp4 closer.mp3
+3. google how to install alias
+4. duck how to install alias (you set alias in the .zshrc "alias duck='web_search duckduckgo'")
+5. ranger (this file maneager)
+6. head -n 15 .bashrc (you can you this to view first line of file)
+7. tail -n 15 .bashrc (you can you this to view last line of file)
+# All packages you need
+sudo apt install ffmpeg youtube-dl ranger
