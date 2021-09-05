@@ -1,15 +1,17 @@
 ## This are Commands for Advanced users
 You can use -F to specify certain format && -f for best quality
+
 ```c
  youtube-dl https://youtube.com/watch?v=sPeIfIcCoDE
 ```
-``c
+
+```c
 ffmpeg -i nice.mp4 closer.mp3
 ```
-``c
+```c
 google how to install alias
 ```
-``c
+```c
 duck how to install alias 
 ```
 
