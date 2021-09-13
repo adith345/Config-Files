@@ -25,7 +25,10 @@ head -n 15 .bashrc (you can you this to view first line of file)
 ```c 
 tail -n 15 .bashrc (you can you this to view last line of file) 
 ```
+```c
 
+figlet Adith Prakash
+```
 # All packages you need
 ```c 
 sudo apt install ffmpeg youtube-dl ranger 
