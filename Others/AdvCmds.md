@@ -31,5 +31,5 @@ figlet Adith Prakash
 ```
 # All packages you need
 ```c 
-sudo apt install ffmpeg youtube-dl ranger 
+sudo apt install ffmpeg youtube-dl ranger figlet 
 ```
