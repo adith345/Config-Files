@@ -32,5 +32,20 @@ ENABLE_CORRECTION="true"
 #----ALIASES------------
 alias duck='web_search duckduckgo'
 alias conv='ffmpeg -i'
-alias in='sudo apt install'
-alias re='sudo apt remove'
+alias in='doas apt install'
+alias re='doas apt remove'
+alias ..='cd ..'
+alias ...="cd ../.."
+alias ....="cd ../../.."
+alias cleanall='doas apt autoremove'
+alias add='git add -A'
+alias commit='git commit -m'
+alias rs='git status'
+alias push='git push origin main'
+alias htop='bpytop'
+alias downmp4='youtube-dl  -f mp4'
+alias awk1=" awk '{print $0}' "
+alias main='cd ~/Documents/C\ Lang'
+
+#------Terminal Apps------
+colorscript -r
