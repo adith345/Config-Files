@@ -10,7 +10,12 @@ sudo apt install vim
 3. Copy To According Directory
 
 ```c
+git clone https://github.com/adith345/Config-Files
 cd Config-Files/Vim
+mkdir ~/.vim/autoreload
+mkdir ~/.vim/autoreload/airline
+mkdir ~/.vim/autoreload/airline/themes
+mkdir ~/colors
 cp Sonokai-Files/airline/sonokai.vim ~/.vim/autoload/airline/themes/
 cp Sonokai-Files/autoreload/sonokai.vim ~/.vim/autoload/
 cp Sonokai-Files/vim/sonokai.vim ~/.vim/colors
