@@ -22,8 +22,8 @@ cp Sonokai-Files/vim/sonokai.vim ~/.vim/colors
 cp .vimrc ~/
 
 ```
-
-5. Now Type vim in terminal and type this command 
+5. You Will Get A Error at Starting But Enter a Command in Given in 6
+6. Now Type vim in terminal and type this command 
 ```c
 :PluginUpdate
 ```
